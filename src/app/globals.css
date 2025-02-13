@@ -2,20 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+html {
+  background: lavenderblush;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* .swiper-slide {
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
+.swiper-slide-prev,
+.swiper-slide-next {
+  filter: blur(2px);
+} */
