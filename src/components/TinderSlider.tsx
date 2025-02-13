@@ -19,20 +19,6 @@ const TinderSlider = () => {
     { id: 2, image: "https://picsum.photos/350/600?random=2" },
     { id: 3, image: "https://picsum.photos/350/600?random=3" },
     { id: 4, image: "https://picsum.photos/350/600?random=4" },
-    { id: 5, image: "https://picsum.photos/350/600?random=5" },
-    { id: 6, image: "https://picsum.photos/350/600?random=6" },
-    { id: 7, image: "https://picsum.photos/350/600?random=7" },
-    { id: 8, image: "https://picsum.photos/350/600?random=8" },
-    { id: 9, image: "https://picsum.photos/350/600?random=9" },
-    { id: 10, image: "https://picsum.photos/350/600?random=10" },
-    { id: 11, image: "https://picsum.photos/350/600?random=11" },
-    { id: 12, image: "https://picsum.photos/350/600?random=12" },
-    { id: 13, image: "https://picsum.photos/350/600?random=13" },
-    { id: 14, image: "https://picsum.photos/350/600?random=14" },
-    { id: 15, image: "https://picsum.photos/350/600?random=15" },
-    { id: 16, image: "https://picsum.photos/350/600?random=16" },
-    { id: 17, image: "https://picsum.photos/350/600?random=17" },
-    { id: 18, image: "https://picsum.photos/350/600?random=18" },
   ];
 
   return (
