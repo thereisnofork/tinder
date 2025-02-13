@@ -2,10 +2,10 @@
 
 import { Paper, BottomNavigation, BottomNavigationAction } from "@mui/material";
 import React from "react";
-import FolderIcon from "@mui/icons-material/Folder";
+// import FolderIcon from "@mui/icons-material/Folder";
 import RestoreIcon from "@mui/icons-material/Restore";
 import FavoriteIcon from "@mui/icons-material/Favorite";
-import LocationOnIcon from "@mui/icons-material/LocationOn";
+// import LocationOnIcon from "@mui/icons-material/LocationOn";
 import SettingsRoundedIcon from "@mui/icons-material/SettingsRounded";
 import ContactEmergencyRoundedIcon from "@mui/icons-material/ContactEmergencyRounded";
 import AccountBalanceWalletRoundedIcon from "@mui/icons-material/AccountBalanceWalletRounded";
